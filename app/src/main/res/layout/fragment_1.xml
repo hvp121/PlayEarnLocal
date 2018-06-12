@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@color/colorAccent"
+    tools:context="com.example.hp.playearnlocal.fragment.Fragment_1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:id="@+id/frag1_btnview"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/colorAccent"
+        android:text="fragment_1" />
+
+</FrameLayout>
